@@ -1,8 +1,7 @@
 # DKNavigationDrawer
 Navigation Drawer for iOS using Swift. 
 
-Take a look at this GIF or the mov file in project
- https://media.giphy.com/media/I45syjhreC0Rq/giphy.gif
+![Screenshot](https://media.giphy.com/media/I45syjhreC0Rq/giphy.gif)
 
 1. Add DKNavDrawerDelegate, DrawerView and DrawerView to project.
 2. Assign class DKNavDrawer to your navigation controller
