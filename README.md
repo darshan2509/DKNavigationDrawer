@@ -3,7 +3,7 @@ Navigation Drawer for iOS using Swift.
 
 ![Screenshot](https://media.giphy.com/media/I45syjhreC0Rq/giphy.gif)
 
-1. Add DKNavDrawerDelegate, DrawerView and DrawerView to project.
+1. Add DKNavDrawerDelegate and DrawerView to project.
 2. Assign class DKNavDrawer to your navigation controller
 3. Add a Right Bar Button to your RootViewController connect it to a action.
 4. RootViewController should conform to DKNavDrawerDelegate
